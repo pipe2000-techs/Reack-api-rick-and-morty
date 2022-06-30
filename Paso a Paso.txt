@@ -1,0 +1,11 @@
+#istalar vite
+npm create vite
+
+#instalar npm en la ruta del proyecto
+npm i
+
+#ejecutar el proyecto de react
+npm run dev
+
+#convertir el proyecto en produccion
+npm run build
